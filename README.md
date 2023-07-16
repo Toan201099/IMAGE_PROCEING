@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# Depth Information Reconstruction 
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+I. Introduce 
+   Stereo matching là một bài toán lớn trong lĩnh vực Thị giác máy tính, với mục tiêu phục hồi kiến trúc 3D
+thực tế từ cặp ảnh 2D, gọi là ảnh stereo, Stereo Matching thường được ứng dụng trong các lình vực trong xe tự hành, thực tế ảo
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+<img src="data.jpg" />
+
